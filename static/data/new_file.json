@@ -1,0 +1,266 @@
+{
+	"coupons": null,
+	"tuans": null,
+	"skudata": {
+		"sku": [
+			{
+				"sku_id": "854939560",
+				"sa_id": "9779805",
+				"av_zid": "1",
+				"av_fid": "101",
+				"av_zvalue": "随机",
+				"av_fvalue": "10个套",
+				"av_zpic": "https://goods3.juancdn.com/bao/170804/4/c/59844af8a9fcf80e7205fc7e_800x800.png?iopcmd=thumbnail&type=11&height=145&width=145",
+				"av_origin_zpic": "https://goods3.juancdn.com/bao/170804/4/c/59844af8a9fcf80e7205fc7e_800x800.png?iopcmd=convert&Q=80&dst=png",
+				"av_fpic": "",
+				"av_origin_fpic": "",
+				"cprice": "4.9",
+				"price": "15",
+				"stock": "1",
+				"stock_tips": "库存紧张",
+				"buy_tips": "",
+				"buy_count": "0",
+				"status": "1",
+				"reduce": "",
+				"fgprice": "5",
+				"stock_tag": "5",
+				"default_select_type": "1",
+				"remind_code": "0",
+				"sprice": "4.9",
+				"f_c_area": "4.9",
+				"f_o_area": "15",
+				"z_o_area": "15",
+				"z_c_area": "4.9"
+			}
+		],
+		"info": {
+			"goods_pic_url": "https://goods4.juancdn.com/bao/170727/7/5/59798149a9fcf85b1b5b764f_800x800.png?imageMogr2/thumbnail/200x200!/quality/80!/format/png",
+			"goods_origin_url": "https://goods4.juancdn.com/bao/170727/7/5/59798149a9fcf85b1b5b764f_800x800.png?imageMogr2/quality/80!/format/png",
+			"goods_title": "小桃心一次性口罩10枚",
+			"oprice": "15",
+			"cprice": "4.9",
+			"sprice": "4.9",
+			"reduce": "",
+			"buy_count": "0",
+			"buy_tips": "抱歉，你购买的商品数量已达到限购数量，请先进行结算",
+			"is_able_add": "1",
+			"status": "2",
+			"status_text": "",
+			"sale_img": "",
+			"sale_url": "",
+			"stock": "",
+			"end_time": "2145888000",
+			"start_time": "1503623812",
+			"is_soldout": "0",
+			"gstatus": "1",
+			"try_info": [],
+			"join_number": "1378人已购",
+			"zav_name": "颜色",
+			"fav_name": "规格",
+			"sale_mode": "1",
+			"near": "1",
+			"inventory_status": "6",
+			"free_shipping": "1",
+			"source_type": "1",
+			"is_youxuan": "1",
+			"is_virtual": "0",
+			"sku_btn": [
+				{
+					"btntxt": "确定",
+					"type": "1",
+					"jumpurl": "",
+					"bi_activityname": "click_temai_joinbag",
+					"bi_params": "",
+					"server_jsonstr": ""
+				}
+			]
+		}
+	},
+	"discount": {
+		"coupon": [
+			{
+				"type": "8",
+				"title": "满元赠",
+				"icon": {
+					"border_color": "",
+					"text_color": "0xffffff",
+					"bg_color": "0xff464e",
+					"text": "满赠"
+				},
+				"ae_ab_id": "118927",
+				"coupon_type": "3",
+				"content": "满1元即赠30元优惠券，限赠一次，数量有限，赠完即止",
+				"info": [
+					{
+						"coupon_id": "140546",
+						"money": "5",
+						"conditions": "满49元可用",
+						"expire_time": "获赠后7天内有效"
+					}, {
+						"coupon_id": "140547",
+						"money": "10",
+						"conditions": "满99元可用",
+						"expire_time": "获赠后7天内有效"
+					}, {
+						"coupon_id": "140549",
+						"money": "15",
+						"conditions": "满169元可用",
+						"expire_time": "获赠后7天内有效"
+					}
+				]
+			}
+		],
+		"coupon_index": [[
+				{
+					"border_color": "",
+					"text_color": "0xffffff",
+					"bg_color": "0xff464e",
+					"text": "满赠",
+					"dis_type": "1"
+				}, {
+					"dis_type": "2",
+					"text": "满1元即赠30元优惠券，限赠一次，数量有限，赠完即止"
+				}
+			]
+		],
+		"activity_base_fslist": [],
+		"info": {
+			"fs_type": "0"
+		},
+		"discount": [],
+		"goods_dis": "",
+		"sku_dis": [],
+		"vip_info": {
+			"content": "开卡可节省0.49元，再送199元大礼包",
+			"jump_url": "https://m.juanpi.com/vipcard/index?retParams={\"goods_id\":6823936}",
+			"vip_price": "0",
+			"status": "0",
+			"icon_new": {
+				"border_color": "#ff464e",
+				"text_color": "#ff464e",
+				"text": "VIP",
+				"bg_color": ""
+			}
+		},
+		"isFreeTuanGoods": "0"
+	},
+	"goodsDetail": {
+		"business_reminder": "<font color=\"#9b9b9b\">此商品由品牌商发货。</font>",
+		"images": [
+			"https://goods2.juancdn.com/bao/170727/3/f/597981a18150a11f2658bd32_790x800.png",
+			"https://goods3.juancdn.com/bao/170727/4/f/597981a2a9fcf855dc7c64a2_790x800.png",
+			"https://goods1.juancdn.com/bao/170727/0/e/597981a2a9fcf87e601eb6df_790x800.png",
+			"https://goods8.juancdn.com/bao/170727/f/d/597981a3a9fcf87e5c58e412_790x800.png",
+			"https://goods5.juancdn.com/bao/170727/9/e/597981a4a9fcf87e5f363d71_790x800.png",
+			"https://goods4.juancdn.com/bao/170727/6/f/597981a48150a11f2c7a0d3b_790x800.png",
+			"https://goods6.juancdn.com/bao/170727/a/f/597981a58150a11f2951d13e_790x206.png"
+		],
+		"attr": [
+			{
+				"st_key": "运费",
+				"st_value": "<font color=\"#ff7700\">全国包邮(偏远地区除外)</font>"
+			}, {
+				"st_key": "适用季节",
+				"st_orderid": "0",
+				"st_value": "不限季节"
+			}
+		],
+		"logistics": {
+			"install_service": [],
+			"rule_infos": [
+				{
+					"ri_id": "1386",
+					"ri_title": "在卷皮购物有哪些服务保障？",
+					"ri_content": "<p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; \">卷皮为您提供<strong>“人工质检”“闪电发货”“精选品牌商”“7天无理由退货”“退货返运费”</strong>等服务，让您轻松购物有保障。</span></p>"
+				}, {
+					"ri_id": "1377",
+					"ri_title": "如何选择商品尺码？",
+					"ri_content": "<p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; \">商品详情页会展示所售商品的尺码表，可能会存在1~2cm的正常误差范围。</span></p><p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; \">由于每个人的身材具体尺寸都不一样，为了对您负责我们根据身高体重为您推荐的也不一定准确，建议您可以根据商品详情页面的尺码表测量自身数据后选择更稳妥哦~</span></p>"
+				}, {
+					"ri_id": "1375",
+					"ri_title": "可以指定快递吗？",
+					"ri_content": "<p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; \">商品详情页面会显示默认发货快递，商家也会根据您的地址自动匹配当地运营较好的快递公司安排配送，暂<strong>不接受指定快递</strong>哦~</span></p>"
+				}, {
+					"ri_id": "1374",
+					"ri_title": "下单后什么时候发货？",
+					"ri_content": "<p><span style=\"\">卷皮承诺买家付款成功后，商家将在<strong>24h</strong>内完成发货(特殊情况除外)</span><span style=\"\">。由于部分快递公司无法实时更新信息，您看到的物流情况可能会有延迟。</span></p>"
+				}, {
+					"ri_id": "1373",
+					"ri_title": "购买后不喜欢可以退货么？",
+					"ri_content": "<p><span style=\"\">卷皮严格按照消费者保障服务，商品自签收后<strong>7天内</strong>，在不影响二次销售的情况下，卷皮为您提供7天无理由退货服务（特殊商品除外）。</span></p>"
+				}, {
+					"ri_id": "1376",
+					"ri_title": "退货后运费谁来承担？",
+					"ri_content": "<p><span style=\"font-family: 微软雅黑, &#39;Microsoft YaHei&#39;; \">用户提交售后申请，售后完成后，系统会根据退货责任方与商品单价判断并补贴运费的哦~</span></p>"
+				}, {
+					"ri_id": "2001",
+					"ri_title": "价格说明",
+					"ri_content": "<p>1.商品的未划横线价格（显示如65）为卷皮销售价，在没有满减、额外折扣的情况下，该价格是交易成交价，是您最终决定是否购买商品的依据。</p><p>2.商品的划横线价格为参考价，采集自品牌专柜标价、商品吊牌价或由品牌供应商提供的正品零售价；由于地区、时间的差异性和市场行情波动，品牌专柜标价、商品吊牌价可能会与您购物时展示的不一致，该价格仅供您参考。</p><p>3商品的折扣比为卷皮销售价与参考价的对比（该值四舍五入后采小数点后1位，如24.9/65=0.38307=3.8折），该对比值仅供您参考，不作为结算基数。<span style=\"display: none; line-height: 0px;\" id=\"_baidu_bookmark_start_1\">‍</span><span style=\"display: none; line-height: 0px;\" id=\"_baidu_bookmark_start_1\"></span></p><p>4. 商品促销信息以商品详情页“促销”栏中的信息为准；最终交易成交价以订单结算页价格为准；如您发现活动商品售价或促销信息有异常，请购买前先联系客服咨询。</p><p><br/></p>"
+				}
+			]
+		},
+		"tj_data": []
+	},
+	"trumpetInfo": {
+		"trumpet": [
+			{
+				"avatar": "//face1.juancdn.com/face/111220/gq4ef04fbc494cb_102x85.jpg?iopcmd=thumbnail&type=11&height=80&width=80%7Ciopcmd=convert&Q=88&dst=jpg",
+				"nickname": "帆momo",
+				"jump_url": ""
+			}, {
+				"avatar": "//tuan.juancdn.com/pintuan/src/img/defaultnew.png",
+				"nickname": "翻脸比翻书快",
+				"jump_url": ""
+			}, {
+				"avatar": "//tuan.juancdn.com/pintuan/src/img/defaultnew.png",
+				"nickname": "jp_5029b2e6b",
+				"jump_url": ""
+			}, {
+				"avatar": "//tuan.juancdn.com/pintuan/src/img/defaultnew.png",
+				"nickname": "杜殿众",
+				"jump_url": ""
+			}, {
+				"avatar": "//tuan.juancdn.com/pintuan/src/img/defaultnew.png",
+				"nickname": "t881218",
+				"jump_url": ""
+			}, {
+				"avatar": "//face1.juancdn.com/face/111222/1x4ef2fb8d6afe0_102x85.jpg?iopcmd=thumbnail&type=11&height=80&width=80%7Ciopcmd=convert&Q=88&dst=jpg",
+				"nickname": "马子淇",
+				"jump_url": ""
+			}, {
+				"avatar": "//face1.juancdn.com/face/120229/ga4f4dcfdcc39f8_245x200.jpg?iopcmd=thumbnail&type=11&height=80&width=80%7Ciopcmd=convert&Q=88&dst=jpg",
+				"nickname": "Hardery",
+				"jump_url": ""
+			}, {
+				"avatar": "//face1.juancdn.com/face/111215/tw4ee9621cabb60_102x85.jpg?iopcmd=thumbnail&type=11&height=80&width=80%7Ciopcmd=convert&Q=88&dst=jpg",
+				"nickname": "莫爱moai",
+				"jump_url": ""
+			}, {
+				"avatar": "//tuan.juancdn.com/pintuan/src/img/defaultnew.png",
+				"nickname": "jp_0233732fc",
+				"jump_url": ""
+			}, {
+				"avatar": "//face1.juancdn.com/face/111219/cl4eeefc3de8031_102x85.jpg?iopcmd=thumbnail&type=11&height=80&width=80%7Ciopcmd=convert&Q=88&dst=jpg",
+				"nickname": "kx小妖",
+				"jump_url": ""
+			}
+		]
+	},
+	"buyBtnInfo": {
+		"text": "加入购物车",
+		"jump_url": "qimi=>//juanpi?type=61&content=",
+		"is_single_purchase": "1",
+		"single_jump_url": "qimi://juanpi?type=93&content={\"goods_id\":\"49679391\",\"mode\":\"1\",\"single_pop\":\"1\"}",
+		"style_type": "2",
+		"pop_sku": "1",
+		"bi_activityname": "click_pintuan_opengroup",
+		"bi_params": "",
+		"item_id_status": "0",
+		"style_info": [],
+		"sku_text": "确定",
+		"pintuan_tag": "",
+		"join_info": "",
+		"single_hidde_price": "1",
+		"single_btn_text": "立即购买"
+	}
+}
